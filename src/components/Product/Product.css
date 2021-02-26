@@ -1,0 +1,14 @@
+.single-product {
+  display: flex;
+  border-bottom: 1px solid gray;
+  margin: 0 10px 5px 0;
+  padding-bottom: 5px;
+}
+button {
+  padding: 7px 15px;
+  color: blue;
+  background-color: rgb(196, 180, 211);
+  border-radius: 5px;
+  border: none;
+  cursor: pointer;
+}
